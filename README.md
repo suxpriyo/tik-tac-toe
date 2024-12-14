@@ -11,4 +11,4 @@ This project is a classic implementation of the popular game Tic Tac Toe, where 
 - Multiplayer Mode: Play against a friend on the same device.
 - Game State Management: Track game progress and determine the winner or a draw.
 - Responsive Design: Suitable for various screen sizes and devices.
-# tik-tac-toe
+
